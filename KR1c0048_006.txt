@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩經通義
-#+DATE: 2015-09-23 09:37:05
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:06:21.067995
+#+PROPERTY: ID KR1c0048
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1c0048_WYG_006-1a>¶
 欽定四庫全書¶
 　詩經通義卷六　　　　　吳江朱鶴齡撰¶
@@ -1010,4 +1012,3 @@
 　¶
 　¶
 　詩經通義卷六¶
-
